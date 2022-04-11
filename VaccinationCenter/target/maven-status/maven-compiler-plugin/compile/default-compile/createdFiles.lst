@@ -1,0 +1,6 @@
+com\microservices\vaccinationcenter\model\Citizen.class
+com\microservices\vaccinationcenter\entity\VaccinationCenter.class
+com\microservices\vaccinationcenter\model\RequiredResponse.class
+com\microservices\vaccinationcenter\repository\CenterRepo.class
+com\microservices\vaccinationcenter\VaccinationCenterApplication.class
+com\microservices\vaccinationcenter\controller\VaccinationCenterController.class
